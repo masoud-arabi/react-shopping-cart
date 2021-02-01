@@ -162,3 +162,16 @@ footer {
 .cart-items li div:last-child {
   flex: 1;
 }
+.total {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+.total > div {
+  font-size: 2rem;
+}
+.total > div,
+.total > button {
+  flex: 1;
+}
