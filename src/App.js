@@ -16,8 +16,8 @@ class App extends Component {
     }
 
   }
-createOrder = (oredr)=>{
-  alert("need to save order for" + oredr.name);
+  createOrder = (order)=>{
+  alert("need to save order for" + order.name);
 
 };
 

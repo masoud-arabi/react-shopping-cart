@@ -4,7 +4,7 @@
             "_id":"dress1",
             "title":"Midi sundress with shiring detail",
             "image":"./images/dress1.jpg",
-            "description":"about dress 1",
+            "description":"about dress 1  about dress 1about dress 1about dress 1about dress 1about dress 1about dress 1about dress 1",
             "price":49.9,
             "availableSizes":["XL", "XXL"]
         },
@@ -12,7 +12,7 @@
             "_id":"dress2",
             "title":"Midi sundress with ruched front",
             "image":"./images/dress2.jpg",
-            "description":"about dress 2",
+            "description":"about dress 2 about dress 2about dress 2about dress 2about dress 2about dress 2",
             "price":29.9,
             "availableSizes":["X","XL", "XXL"]
         },
@@ -20,7 +20,7 @@
             "_id":"dress3",
             "title":"Midi sundress in pink disty floral",
             "image":"./images/dress3.jpg",
-            "description":"about dress 3",
+            "description":"about dress 3 about dress 3about dress 3about dress 3about dress 3about dress 3about dress 3",
             "price":35.9,
             "availableSizes":["M","L","XL", "XXL"]
         },
@@ -28,7 +28,7 @@
             "_id":"Midi sundress with",
             "title":"Midi sundress with",
             "image":"./images/dress4.jpg",
-            "description":"about dress 4",
+            "description":" about dress 4 about dress 4 about dress 4 about dress 4 about dress 4 about dress 4 about dress 4 about dress 4 about dress 4",
             "price":19.9,
             "availableSizes":["M","L","M"]
         },
@@ -36,7 +36,7 @@
             "_id":"dress5",
             "title":"Midi sundress with",
             "image":"./images/dress5.jpg",
-            "description":"about dress 5",
+            "description":" about dress 5 about dress 5 about dress 5 about dress 5 about dress 5 about dress 5 about dress 5",
             "price":19.9,
             "availableSizes":["M","L","XL"]
         },
@@ -44,7 +44,7 @@
             "_id":"dress6",
             "title":"Midi sundress with",
             "image":"./images/dress6.jpg",
-            "description":"about dress 6",
+            "description":" about dress 6 about dress 6 about dress 6 about dress 6 about dress 6 about dress 6 about dress 6 about dress 6",
             "price":19.9,
             "availableSizes":["L","XL","XXL"]
         }
