@@ -1,11 +1,11 @@
-import React, { Component } from 'react';
 import formatCurrency from '../util';
 import Fade from 'react-reveal/Fade';
 import Modal from 'react-modal';
 import Zoom from 'react-reveal/Zoom';
 
+const React = require("react");
 
-export default class Products extends Component {
+export default class Products extends React.Component {
     constructor(){
         super();
         this.state ={
