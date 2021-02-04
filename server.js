@@ -4,7 +4,7 @@ import mongoose from"mongoose";
 import shortid from"shortid";
 
 const app = express();
-app.use(bodyParser);
+app.use(bodyParser.json());
 
 mongoose.connect("mongodb://localhost/react-shopping-cart-db",{
     useNewUrlParser: true,
@@ -38,4 +38,4 @@ app.delete("/api/products/:id", async(req,res)=>{
 })
 
 const port = process.env.PORT || 5000;
-app.listen(port, ()=> console.log("server at http://localhost:5000"));
+app.listen(port, () => console.log("server at http://localhost:5000"));

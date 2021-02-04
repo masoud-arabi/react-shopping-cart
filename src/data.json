@@ -6,7 +6,7 @@
             "image":"./images/dress1.jpg",
             "description":"about dress 1  about dress 1about dress 1about dress 1about dress 1about dress 1about dress 1about dress 1",
             "price":49.9,
-            "availableSizes":["XL", "XXL"]
+            "availableSizes":["S", "M", "XL", "XXL"]
         },
         {
             "_id":"dress2",
@@ -22,7 +22,7 @@
             "image":"./images/dress3.jpg",
             "description":"about dress 3 about dress 3about dress 3about dress 3about dress 3about dress 3about dress 3",
             "price":35.9,
-            "availableSizes":["M","L","XL", "XXL"]
+            "availableSizes":["S", "M", "L", "XL", "XXL"]
         },
         {
             "_id":"Midi sundress with",
@@ -30,7 +30,7 @@
             "image":"./images/dress4.jpg",
             "description":" about dress 4 about dress 4 about dress 4 about dress 4 about dress 4 about dress 4 about dress 4 about dress 4 about dress 4",
             "price":19.9,
-            "availableSizes":["M","L","M"]
+            "availableSizes":["S", "M", "L", "M"]
         },
         {
             "_id":"dress5",
