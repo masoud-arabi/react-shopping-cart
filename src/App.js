@@ -2,7 +2,9 @@ import React, { Component } from 'react';
 import Cart from './components/Cart';
 import Filter from './components/Filter';
 import Products from './components/product';
-import data from "./data.json"
+import data from "./data.json";
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faBell } from '@fortawesome/free-solid-svg-icons'
 // feature-1
 
 class App extends Component {
@@ -77,7 +79,7 @@ class App extends Component {
     return ( 
       <div className="grid-container">
           <header className>
-            <a href="/">React shopping cart</a>
+            <a href="/">Queenie shopping cart</a>
           </header>
           <main>
             <div className="content">
@@ -104,6 +106,10 @@ class App extends Component {
             </div>
           </main>
           <footer>
+            
+          <FontAwesomeIcon icon={faBell} />
+          <FontAwesomeIcon icon={['fal', 'code']} />
+          <i class="fas fa-coffee"></i>
             All right is reserved.
           </footer>
       </div>
